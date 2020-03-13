@@ -1,0 +1,887 @@
+{
+	"type": "hulls",
+
+	"items": [
+		{
+		   "name_ru": "Васп",
+		   "name_en": "Wasp",
+		   "description_en": "Light, efficient and simple in service - an ideal armor for beginners. Along with low energy consumption it gives relatively good protection from small-caliber weapons. In combination with good engine it gives an ability to drive as fast as a rally car, like you have nitro-fuel inside.",
+		   "description_ru": "Лёгкий, экономичный, простой в эксплуатации — идеальный корпус начального уровня. После прокачки позволяет развивать довольно большую скорость, что в сочетании с небольшими габаритами даёт свободу действий на поле боя. Из-за небольшой массы подвержен переворотам от ударов мощного вражеского оружия.",
+		   "modification": "0",
+		   "id": "wasp",
+		   "XT": true,
+		   "nXT": "Васп ХТ",
+		   "dXT": "Элитный Васп ХТ отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",
+
+		   "price_m0": "100",
+		   "price_m1": "13100",
+		   "price_m2": "102700",
+		   "price_m3": "203100",
+
+		   "rang_m0":"1",
+		   "rang_m1":"10",
+		   "rang_m2":"21",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "1000"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "10"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "100"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1000"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "820"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1265"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "11"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "108"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1265"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "947"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1618"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "11"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "119"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1618"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1116"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1765"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "12"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "123"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1765"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1187"
+			   		}
+
+			   ]
+            },
+            {
+		   "name_ru": "Хантер",
+			 "name_en": "Hunter",
+		   "description_en": "Thanks to balance between reinforced steel armor plates and low energy needs this armor is an all purpose one. It is good for everybody, from sprinters to snipers. Being so versarile, you'll never stay without a job on a field of war.",
+		   "description_ru": "Этот корпус, обшитый бронёй из армированной стали, является наиболее универсальным. Он хорошо подойдет как поклонникам активного, динамичного боя, так и игрокам, предпочитающим позиционный стиль игры. Вы никогда не останетесь без работы, будь то удержание высоты или жестокая битва за квартал разрушенного города.",
+		   "modification": "0",
+		   "id": "hunter",
+		   "XT": true,
+		   "nXT": "Хантер ХТ",
+		   "dXT": "Боковые пластины Хантера ХТ напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",
+
+		   "price_m0": "0",
+		   "price_m1": "29900",
+		   "price_m2": "94100",
+		   "price_m3": "200000",
+
+		   "rang_m0":"1",
+		   "rang_m1":"14",
+		   "rang_m2":"19",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "1500"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "7"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "95"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1500"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "950"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2074"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "116"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2074"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1199"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2295"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "124"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2294"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1294"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2650"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "9"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "137"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2647"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1447"
+			   		}
+
+                ]
+         },
+         {
+		   "name_ru": "Титан",
+		   "name_en": "Titan",
+		   "description_en": "Titan alloy armor plates combined with special geometry let this one to be effective even against large-caliber weapons. Thanks to it's low thermal conductivity, it defends crew from heat very effectively. Using this armor, you can go into the hottest places of war.",
+		   "description_ru": "Броня из сверхпрочного титанового сплава вкупе с грамотно спроектированной геометрией позволяет данному корпусу отлично противостоять даже крупнокалиберным пушкам. Танк, оборудованный данным корпусом, может без раздумий отправляться в самое пекло. Следует отметить, что из-за низкой скорости этот корпус непригоден для быстрых атак в тыл врага.",
+		   "modification": "0",
+		   "id": "titan",
+		   "XT": true,
+		   "nXT": "Титан ХТ",
+		   "dXT": "Мифический ХТ-скин для Титана олицетворяет выносливость и несокрушимость этого корпуса. Скин придаёт своему обладателю по-настоящему титаническую силу. Враги, трепещите!",
+
+		   "price_m0": "0",
+		   "price_m1": "6000",
+		   "price_m2": "92900",
+		   "price_m3": "220000",
+
+		   "rang_m0":"1",
+		   "rang_m1":"8",
+		   "rang_m2":"21",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "2000"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "65"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1900"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "850"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2413"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "71"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2291"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "963"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3235"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "6"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "80"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "3074"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1190"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3530"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "6"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "84"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "3353"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1271"
+			   		}
+                ]
+         },
+         {
+		   "name_ru": "Диктатор",
+		   "name_en": "Dictator",
+		   "description_en": "Bacause of improved active defense system and usage of newest composite materials, this armor effectively absorbs an energy of an impact of almost any caliber gun. Having this one installed, you can lead any battle as a main force. Just don't forget to have enough energy onboard.",
+		   "description_ru": "Благодаря усовершенствованной системе активной защиты и применению новейших композитных материалов данный корпус эффективно поглощает энергию взрыва снаряда любого калибра. Обладатель такого корпуса может смело вести товарищей в атаку, принимая основной удар на себя. Диктатор имеет большие габариты, что делает его, с одной стороны, лёгкой мишенью, а с другой — лучшим корпусом для ловли золотых ящиков и переворачивания других корпусов.",
+		   "modification": "0",
+		   "id": "dictator",
+		   "XT": true,
+		   "nXT": "Диктатор ХТ",
+		   "dXT": "Экипируйте элитный Диктатор ХТ, и вы легко сможете повести за собой команду, прикрыть союзников, и ничто не ускользнёт от вашего зоркого взгляда. Сияние золотых крыльев по бокам корпуса заметно за километр.",
+
+		   "price_m0": "300",
+		   "price_m1": "26700",
+		   "price_m2": "81800",
+		   "price_m3": "210300",
+
+		   "rang_m0":"2",
+		   "rang_m1":"13",
+		   "rang_m2":"18",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "1500"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "7.0"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "75"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1800"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1000"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2030"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "7"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "90"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2435"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1247"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2250"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "130"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2700"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1350"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2647"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "110"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "3177"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1535"
+			   		}
+
+                ]
+         },
+         {
+		   "name_ru": "Хорнет",
+			 "name_en": "Hornet",
+		   "description_en": "This compact hull uses the latest generation of composite materials, which makes it light, quick and grants high survivability even after a direct hit.",
+		   "description_ru": "Корпус для тех, кто хотел бы получить скорость выше средней, при этом не забыв про броню. Немного тугой в поворотах, но очень устойчивый малыш. Хорошо смотрится почти с любой пушкой. Корпус используется при совершении молниеносных нападений, также им комплектуются танки десанта."
+		   
+		   "modification": "0",
+		   "id": "hornet",
+		   "XT": true,
+		   "nXT": "Хорнет ХТ",
+		   "dXT": "Элитный Хорнет ХТ отличается уникальным внешним видом. Эффектные бронепластины, стилизированные под крылья, подчёркивают его стремительность и элегантность.",
+
+		   "price_m0": "400",
+		   "price_m1": "23100",
+		   "price_m2": "70500",
+		   "price_m3": "225050",
+
+		   "rang_m0":"4",
+		   "rang_m1":"12",
+		   "rang_m2":"17",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "1000"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "9"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "120"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1100"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "850"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1323"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "10"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "130"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1456"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1028"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1470"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "10"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "135"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1618"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1109"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1764"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "11"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "143"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1941"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1271"
+			   		}
+
+                ]
+         },
+         {
+		   "name_ru": "Викинг",
+			 "name_en": "Viking",
+		   "description_en": "This armour is designed with using of all modern army technologies. Improved armour and ''Type 2'' engine allow you to use it in any situations. Charge the enemy or cover your teammates - Viking will prove itself as a good and trustful armour.",
+		   "description_ru": "Этот корпус воплощает в себе все самые современные наработки военной инженерии. Усиленная броня и гусеничная система второго поколения делают его великолепным универсалом. Корпус прекрасно подходит для решения любых боевых задач — от удержания высоты до лобовой атаки.",
+		   "modification": "0",
+		   "id": "viking",
+		   "XT": true,
+		   "nXT": "Викинг ХТ",
+		   "dXT": "Эксклюзивный Викинг ХТ примечателен своим необычным внешним видом. Характерный рисунок брони выполнен в суровом скандинавском стиле.",
+
+		   "price_m0": "600",
+		   "price_m1": "19300",
+		   "price_m2": "99900",
+		   "price_m3": "204200",
+
+		   "rang_m0":"4",
+		   "rang_m1":"11",
+		   "rang_m2":"21",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "1500"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "7"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "90"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1300"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "820"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "1941"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "105"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "1682"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "976"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2382"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "8"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "119"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2065"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1132"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2647"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "9"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "128"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2294"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1225"
+			   		}
+
+                ]
+         },
+        {
+		   "name_ru": "Мамонт",
+			 "name_en": "Mammonth",
+		   "description_en": "This is not a tank - this is a fortress on the track layers. Flagship among other armours. Heavy, strengthened with super-concrete this armour is slow, but it is able to fight several enemies. Other armours look fragile comparing to Mammoth.",
+		   "description_ru": "Самоходная крепость на гусеничном ходу. Флагман среди танковых корпусов. Цельнолитой, тяжёлый, упрочнённый супербетоном, имеет низкую скорость, что не мешает ему с успехом противостоять одновременно нескольким вражеским орудиям.",
+		   "modification": "0",
+		   "id": "mamont",
+		   "XT": true,
+		   "nXT": "Мамонт ХТ",
+		   "dXT": "Элитный Мамонт ХТ примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
+
+		   "price_m0": "500",
+		   "price_m1": "3200",
+		   "price_m2": "76700",
+		   "price_m3": "228700",
+
+		   "rang_m0":"3",
+		   "rang_m1":"7",
+		   "rang_m2":"20",
+		   "rang_m3":"27",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "2000"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "60"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2000"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "900"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2353"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "63"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "2353"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1006"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3117"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "71"
+			   		},
+			   		{
+			   			"type": "mass",
+			   			"value": "3118"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1235"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3530"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "6"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "75"
+					},
+			   		{
+			   			"type": "mass",
+			   			"value": "3529"
+			   		},
+			   		{
+			   			"type": "power",
+			   			"value": "1359"
+			   		}
+			   ]
+		},
+		{
+		   "name_ru": "Терминатор",
+		   "name_en": "Terminator",
+		   "description_en": "Test",
+		   "description_ru": "Джаггернаут является самым бронированным, быстрым и большим корпусом в игре. Кроме того, Джаггернаут имеет уникальный звук двигателя и чёрный выхлоп, что отличает его от других танков.Пушку «Терминатор» и корпус «Джаггернаут» невозможно приобрести или иным образом получить в постоянное владение. Это вооружение предназначено исключительно для битв в режиме «Джаггернаут». Исключение — уникальным танком могут пользоваться разработчики игры в целях тестирования и организации мероприятий.",
+		   "modification": "0",
+		   "id": "terminate",
+		   "special_item": true,
+		   "XT": false,
+		   "nXT": "",
+		   "dXT": "",
+
+		   "price_m0": "0",
+		   "price_m1": "0",
+		   "price_m2": "0",
+		   "price_m3": "0",
+
+		   "rang_m0":"1",
+		   "rang_m1":"1",
+		   "rang_m2":"1",
+		   "rang_m3":"1",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "2000"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "60"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "2353"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "63"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3117"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "71"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "3530"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "6"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "75"
+					}
+			   ]
+		}
+
+
+	]
+}
