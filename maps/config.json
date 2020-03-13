@@ -1,0 +1,93 @@
+{
+	"maps": [
+
+		{ 
+			"name": "Остров", 
+			"id": "ostr", 
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "6", 
+			"tdm": false,
+			"ctf": true, 
+			"skybox_id": "skybox_desert", 
+			"theme_id": "Лето" 
+		},
+		{
+			"name": "Песочница",
+			"id": "pesok",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Стадион",
+			"id": "stadion",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Монте-Карло",
+			"id": "monte-karlo",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Дюсельдорф",
+			"id": "dus",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "иран",
+			"id": "iran",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Форт Нокс",
+			"id": "fortnoks",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		},
+		{
+			"name": "Серпухов",
+			"id": "serp",
+			"min_rank": "1",
+			"max_rank": "30",
+			"max_players": "8",
+			"tdm": false,
+			"ctf": true,
+			"skybox_id": "skybox_default",
+			"theme_id": "Лето"
+		}
+	]
+}
